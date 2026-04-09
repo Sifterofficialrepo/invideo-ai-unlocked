@@ -1,3 +1,5 @@
+# SKILL: InVideo AI Unlocked
+
 # InVideo AI Unlocked — Claude Code Plugin
 
 ## One prompt in. Finished commercial out.
