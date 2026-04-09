@@ -42,3 +42,9 @@ Claude Code + browser-use CLI + InVideo AI account (free tier works)
 
 ## Guarantee
 30-day money-back guarantee.
+
+## Skill Metadata
+
+- Category: AI Video Production
+- Tags: invideo, video ads, AI video, automation, claude code, plugin
+- Type: Claude Code Skill
